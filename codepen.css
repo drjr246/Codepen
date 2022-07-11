@@ -1,0 +1,136 @@
+/* Top Section Styles */
+.top-section > .codepen-logo img{
+    width: 400px;
+    height: 100%;
+    
+}
+.top-section{
+    background-color: black;
+    color: white;
+    display: flex;
+    padding: 20px;
+    box-shadow: 3px 90px 100px 40px rgba(0,0,0,0.75);
+}
+.top-section > .explore-section{
+    margin-left: 100px;
+    color: rgb(215, 209, 37);
+    font-size: 30px;
+}
+.top-section > .explore-section a{
+    color: white;
+    text-decoration: none;
+    margin: 0px 510x;
+    font-weight: bold;
+    font-size: 30px;
+}
+.top-section > .explore-section > .Pens{
+margin-left: 0px;
+}
+.top-section > .explore-section > .spark{
+    color: gray;
+    margin-left: 50px;
+    font-size: 30px;
+}
+.top-section > .explore-section > .spark i{
+    padding-left: 9px;
+    
+}
+.top-section > .btns {
+    margin-left: 200px;
+    font-size: 1.5em;
+    
+}
+.top-section > .btns > .btn{
+    font-size: 2em;
+    padding: 10px;
+    background-color: rgba(128, 128, 128, 0.437);
+    color: white;
+    font-family: 'Gentium Book Plus', serif;
+    margin: 0px 5px;
+    border: 1px solid rgba(128, 128, 128, 0.437);
+}
+.top-section > .btns i{
+    margin: 0 10px;
+    font-size: 2em;
+}
+.top-section > .btns > .btn i{
+    font-size: 1em;
+}
+/* Middle Area Styles */
+.middle-area{
+font-size: 60px;
+display: grid;
+grid-template-columns: 1fr 1fr;
+background-color: rgb(57, 56, 56);
+color: #cbcbcb;
+padding-top: 80px;
+box-shadow: 50px -8px 100px 0px rgba(0,0,0,0.75);
+}
+.social-development-enviornment{
+    font-weight: bold;
+    color: white;
+}
+.middle-area > .middle-area-text i{
+    color: yellow;
+}
+.middle-area > .middle-area-text > .middle-area-buttons .sign-up-for-free{
+    font-size: 45px;
+    padding: 15px;
+    background-color: rgba(121, 247, 121, 0.87);
+
+   
+    
+}
+.middle-area > .middle-area-text{
+    margin-left: 90px;
+    
+    
+}
+.middle-area > .middle-area-text > .middle-area-buttons .learn-more{
+    font-size: 45px;
+    padding: 15px;
+    background-color:black;
+    color: white;
+    margin-top: 30px
+}
+.middle-area > .picture img{
+    height: 700px;
+    width: 100%;
+    box-shadow: -33px -37px 300px 0px rgba(0,0,0,0.75);
+    
+}
+.middle-area > .picture{
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-bottom: 0px;
+}
+.middle-area > .picture > .words-above-picture > .codepen-projects{
+    color: cyan;
+}
+.middle-area > .picture > .words-above-picture{
+    margin-left: 10px;
+}
+/* bottom area styles */
+.bottom-area{
+    background-color: rgb(31, 31, 31);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    padding-bottom: 100px;
+}
+.bottom-area > .bottom-btn{
+    background-color: rgb(31, 31, 31);
+    color: white;
+    font-size: 30px;
+    padding: 20px;
+    border: 2px solid #cbcbcb;
+    box-shadow: -33px -37px 300px 0px rgba(0,0,0,0.75);
+
+
+}
+.bottom-area > .bottom-btn > .bottom-btn-bold{
+    font-weight: bold;
+}
+
+
