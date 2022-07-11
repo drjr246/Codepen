@@ -1,0 +1,84 @@
+@media (max-width: 2000px){
+    /* top section styles */
+    .top-section > .codepen-logo img{
+        width: 270px;
+        height: 100%;
+    }
+    .top-section{ 
+        padding: 20px;
+        box-shadow: 3px 90px 100px 40px rgba(0,0,0,0.75);
+    }
+    .top-section > .explore-section{
+        margin-left: 50px;
+        font-size: 20px;
+    }
+    .top-section > .explore-section a{
+       margin: 0px 10px;
+        font-size: 20px;
+        margin-top: 7px;
+    }
+    .top-section > .explore-section > .spark{
+       
+        margin-left: 35px;
+        font-size: 20px;
+    }
+    .top-section > .explore-section > .spark i{
+        padding-left: 5px;
+        
+    }
+    .top-section > .btns {
+        margin-left: 170px;
+        font-size: .9em;
+        
+    }
+    .top-section > .btns i{
+        margin: 0 10px;
+        font-size: 2em;
+    }
+    .top-section > .btns > .btn i{
+        font-size: 1em;
+    }
+    /* Middle Area Styles */
+    .middle-area{
+    font-size: 40px;
+    }
+
+    
+    
+    .middle-area > .middle-area-text > .middle-area-buttons > .sign-up-for-free{
+        font-size: 30px;
+        padding: 10px;
+        
+    }
+    .middle-area > .middle-area-text > .middle-area-buttons .learn-more{
+        font-size: 30px;
+        padding: 10px;
+        margin-top: 20px
+    }
+    .middle-area > .picture img{
+        height: 450px;
+        width: 100%;
+        box-shadow: -33px -37px 300px 0px rgba(0,0,0,0.75);
+        
+    }
+    .middle-area > .picture{
+        font-size: 20px;
+        margin-left: 40px;
+        margin-bottom: 0px;
+    }
+    .middle-area > .picture > .words-above-picture > .codepen-projects{
+        color: cyan;
+    }
+    .middle-area > .picture > .words-above-picture{
+        margin-left: 10px;
+    }
+    /* bottom area styles */
+    .bottom-area{
+    padding-bottom: 75px;
+}
+    .bottom-area > .bottom-btn{
+    font-size: 20px;
+    padding: 15x;
+}
+
+}
